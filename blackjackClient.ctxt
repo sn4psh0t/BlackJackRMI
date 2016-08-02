@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=value
+comment0.target=void\ callback(int)
+comment1.params=id
+comment1.target=void\ closegame(int)
+comment2.target=void\ blackjackClient()
+comment3.params=choice
+comment3.target=int\ newCardChoosen(int)
+comment4.params=remoteHost
+comment4.target=void\ init(String)
+comment5.params=args
+comment5.target=void\ main([)
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=client
+comment0.target=int\ register(blackjackCallback)
+comment1.params=callbackID
+comment1.target=void\ deregister(int)
+comment2.target=blackjackServerImpl()
+comment3.target=int\ getCard()
+comment4.params=clientScore
+comment4.target=String\ stop(int)
+numComments=5
